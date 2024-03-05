@@ -1,0 +1,28 @@
+a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+
+.gastronomia{
+    background-color: rgb(245, 245, 146);
+}
+.gastronomia h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline
+    
+}
+.gastronomia h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.gastronomia h3 {
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#partes {
+    background-color: rgb(160, 157, 157);
+
+}
+#partes h5{
+    text-decoration: underline;
+}
